@@ -4,8 +4,9 @@ def hello_t(array) #define method
 #using while loop
 
 i = 0 #start at 0
-  whil
-
+  while < array.length 
+    i = i + 1
+  end
 end
 
 # call your method here!
