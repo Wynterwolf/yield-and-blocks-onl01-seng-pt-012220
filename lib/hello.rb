@@ -9,7 +9,7 @@ i = 0 #start counter at 0
     i = i + 1 #add one to the counter
   end
   
-  array
+  array #this returns original array
 end
 
 # call your method here!
