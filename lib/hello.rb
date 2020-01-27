@@ -8,6 +8,8 @@ i = 0 #start counter at 0
     yield array[i] #grab each element of array while we loop
     i = i + 1 #add one to the counter
   end
+  
+  array
 end
 
 # call your method here!
