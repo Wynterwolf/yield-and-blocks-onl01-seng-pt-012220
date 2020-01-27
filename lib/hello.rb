@@ -14,6 +14,6 @@ i = 0 #start counter at 0
 else
   puts "Hey! No block was given!" #graceful fail
 end
-
+end
 # call your method here!
 
